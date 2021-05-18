@@ -3,8 +3,8 @@ Analysed the various factorsof a bank dataset to understand the reason for incre
 
 **Methods/Tools used to study the dataset:**
 
-Exploratory Data Analysis
-Logistic Regression
+Exploratory Data Analysis,
+Logistic Regression,
 Various classification models
 Data Mining Tool - Orange and RapidMiner
 
